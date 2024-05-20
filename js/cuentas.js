@@ -1,10 +1,8 @@
 
 let num1 = prompt("Ingrese un número:");
-num1 = Number(num1);
 
 
 let num2 = prompt("Ingrese otro número:");
-num2 = Number(num2);
 
 
 function multiplicar(numero1, numero2) {
